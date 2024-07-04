@@ -8,7 +8,7 @@ tokenizer = AutoTokenizer.from_pretrained(model_name)
 model = AutoModelForSequenceClassification.from_pretrained(model_name)
 
 # Setting the page title
-st.title("Financial Sentiment Analysis")
+st.title("Financial News Sentiment Analysis")
 
 # Input option: Text or URL
 input_option = st.radio("Choose input type:", ["Text Input", "URL Input"])
