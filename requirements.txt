@@ -3,3 +3,4 @@ pandas>=1.3.0
 scikit-learn
 tensorflow
 newspaper3k
+transformers
