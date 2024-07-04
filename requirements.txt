@@ -5,3 +5,4 @@ tensorflow
 newspaper3k
 transformers
 lxml_html_clean
+torch
