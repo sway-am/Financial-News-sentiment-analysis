@@ -4,4 +4,4 @@ scikit-learn
 tensorflow
 newspaper3k
 transformers
-lxml
+lxml_html_clean
